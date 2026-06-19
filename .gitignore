@@ -1,0 +1,13 @@
+# Binaires compilés
+/urlwatch
+/cmd/urlwatch/urlwatch
+*.exe
+
+# Bases SQLite éventuelles (extension bonus)
+*.db
+*.db-journal
+*.db-wal
+*.db-shm
+
+# Sorties de tests / couverture
+*.out
